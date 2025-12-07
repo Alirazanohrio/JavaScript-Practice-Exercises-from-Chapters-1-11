@@ -144,7 +144,7 @@
  // alert("Access denied");
 //}
 
-//Use ==, ===, !=, !== to compare two values:5.
+//Use ==, ===, !=, !== to compare two values:
 //let a = 10;
 //let b = "10";
 //if (a == b) {
