@@ -144,4 +144,19 @@
  // alert("Access denied");
 //}
 
+//Use ==, ===, !=, !== to compare two values:5.
+//let a = 10;
+//let b = "10";
+//if (a == b) {
+//  alert("a is equal to b using ==");
+// }
+//if (a === b) {
+//  alert("a is equal to b using ===");
+//}
 
+//if (a != b) {
+  // alert("a is not equal to b using !=");
+//}
+// if (a !== b) {
+  // alert("a is not equal to b using !==");
+//}
