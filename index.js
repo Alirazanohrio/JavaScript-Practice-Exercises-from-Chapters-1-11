@@ -110,7 +110,38 @@
    
 
 
+//6.If Statement and Comparison Operators: Controlling Flow
+ 
+//let age =prompt ("Enter your age:");
+  //if (age <= 30) {
+    //alert("You are young!");
+//}
 
+//let number = prompt ("enter a number");
+//if (number % 2 == 0) {
+    //alert ("Even number");
+//}
 
+//let num1 = prompt ("enter first number");
+//let num2 = prompt ("enter second number");
+//if (num1 > num2) {
+  //alert (num1 + " is greater");
+//}
+  
+//else if (num2 > num1) {
+ // alert (num2 + " is greater");
+//}
+  // else {
+   // alert ("both are equal");
+//}
+ 
+// let password = prompt("Enter your password:");
+// let correctPassword = "ali123";
+// if (password === correctPassword){
+//  alert("Access granted");
+// }
+// else{
+ // alert("Access denied");
+//}
 
 
